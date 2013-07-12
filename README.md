@@ -72,7 +72,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
                                  
 A copy of the license is available in the repository's
-[license.txt](https://github.com/ArcGIS/Ops-dashboard-table-searchnearby/blob/master/license.txt) file.
+[license.txt](https://github.com/esri/table-searchnearby-zoom/blob/master/license.txt) file.
                                                                   
 [](Esri Tags: User Conference)
 [](Esri Tags: 2013)
