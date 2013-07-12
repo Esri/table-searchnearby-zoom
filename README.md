@@ -1,12 +1,14 @@
 OpsDashboard-Table-SearchNearby
 ================================
 
-Presented in UC2013, The Operations Dashboard for ArcGIS addins include an attribute table widget and a search nearby feature action
+Presented in UC2013, The Operations Dashboard for ArcGIS addins include an attribute table widget and a search nearby feature action. 
+This addin is also available to you in ArcGIS Online at http://nitro.maps.arcgis.com/home/item.html?id=162fc6b1899448db800d8a738ca02cc6
 
 ## Features
 
 * Attribute table widget 
 * Search nearby feature action
+* Zoom in/out map tool
 
 ## Instructions
 
@@ -24,7 +26,9 @@ Presented in UC2013, The Operations Dashboard for ArcGIS addins include an attri
 9. Check to add the feature action to the view, open its configuration dialog to set the data source and the buffer distance to search.
 10. From the widget with the feature action, right click on a feature, click Search Nearby Features. 
 11. Features that are within the buffer distance will be highlighted. 
-11. Alternatively, build the project, and upload the .opdashboardaddin file from the build output directory to ArcGIS Online, and then download using Manage Add-Ins in Operations Dashboard, then follow the steps above from step 5.
+12. To use the zoom in/out map tool, click the configure button on the default map toolbar, add the zoom in/out map tool
+13. Run the map tool and follow the on screen description to zoom in/out.
+11. To run the addin in Release environment, build the project, and upload the .opdashboardaddin file from the build output directory to ArcGIS Online, and then download using Manage Add-Ins in Operations Dashboard, then follow the steps above from step 5.
 
 ### General Help
 [New to Github? Get started here.](http://htmlpreview.github.com/?https://github.com/Esri/esri.github.com/blob/master/help/esri-getting-to-know-github.html)
