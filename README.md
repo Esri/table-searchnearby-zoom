@@ -1,4 +1,4 @@
-OpsDashboard-Table-SearchNearby-Zoom
+table-searchnearby-zoom
 ================================
 
 Presented in UC2013, The Operations Dashboard for ArcGIS addins include an attribute table widget, a search nearby feature action and a zoom in/out tool
